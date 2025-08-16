@@ -246,4 +246,4 @@ Found a security vulnerability? Please report it privately to security@darkchain
   <p><strong>Built with ❤️ for a decentralized future</strong></p>
   <p><em>DarkChain ID - Where identity meets Web3</em></p>
 </div>
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9d6aa66e-5f57-4407-a49f-30599a250522/deploy-status)](https://app.netlify.com/sites/darkchain/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9d6aa66e-5f57-4407-a49f-30599a250522/deploy-status)]https://app.netlify.com/sites/darkchain/deploys
